@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://e.coding.net/momijifox/momijifox</id>
+    <id>https://momijifox.github.io</id>
     <title>Momijifox</title>
-    <updated>2020-03-19T11:21:43.761Z</updated>
+    <updated>2020-03-19T11:27:30.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://e.coding.net/momijifox/momijifox"/>
-    <link rel="self" href="https://e.coding.net/momijifox/momijifox/atom.xml"/>
+    <link rel="alternate" href="https://momijifox.github.io"/>
+    <link rel="self" href="https://momijifox.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://e.coding.net/momijifox/momijifox/images/avatar.png</logo>
-    <icon>https://e.coding.net/momijifox/momijifox/favicon.ico</icon>
+    <logo>https://momijifox.github.io/images/avatar.png</logo>
+    <icon>https://momijifox.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Momijifox</rights>
     <entry>
         <title type="html"><![CDATA[Test]]></title>
-        <id>https://e.coding.net/momijifox/momijifox/post/test/</id>
-        <link href="https://e.coding.net/momijifox/momijifox/post/test/">
+        <id>https://momijifox.github.io/post/test/</id>
+        <link href="https://momijifox.github.io/post/test/">
         </link>
         <updated>2020-03-19T10:14:35.000Z</updated>
         <content type="html"><![CDATA[<p>test😄</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://e.coding.net/momijifox/momijifox/post/hello-gridea/</id>
-        <link href="https://e.coding.net/momijifox/momijifox/post/hello-gridea/">
+        <id>https://momijifox.github.io/post/hello-gridea/</id>
+        <link href="https://momijifox.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
