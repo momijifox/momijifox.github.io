@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://momijifox.github.io</id>
     <title>Momijifox</title>
-    <updated>2020-03-20T01:27:08.809Z</updated>
+    <updated>2020-03-20T01:34:00.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://momijifox.github.io"/>
     <link rel="self" href="https://momijifox.github.io/atom.xml"/>
@@ -16,32 +16,29 @@
         <link href="https://momijifox.github.io/post/test/">
         </link>
         <updated>2020-03-19T10:14:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>#test😄<br>
-##特性<br>
-###特点<br>
-<s>test</s><br>
+        <summary type="html"><![CDATA[<h1 id="test">test😄</h1>
+<h2 id="test-2">test</h2>
+<h3 id="test-3">test</h3>
+<p><s>test</s><br>
 <strong>test</strong><br>
 <em>test</em><br>
 <em><strong>test</strong></em></p>
 <blockquote>
 <pre><code>   test  ...............     
-   test  ................
 </code></pre>
 </blockquote>
 ]]></summary>
-        <content type="html"><![CDATA[<p>#test😄<br>
-##特性<br>
-###特点<br>
-<s>test</s><br>
+        <content type="html"><![CDATA[<h1 id="test">test😄</h1>
+<h2 id="test-2">test</h2>
+<h3 id="test-3">test</h3>
+<p><s>test</s><br>
 <strong>test</strong><br>
 <em>test</em><br>
 <em><strong>test</strong></em></p>
 <blockquote>
 <pre><code>   test  ...............     
-   test  ................
 </code></pre>
 </blockquote>
-<!-- more -->
 <!-- more -->
 <p>test</p>
 ]]></content>
