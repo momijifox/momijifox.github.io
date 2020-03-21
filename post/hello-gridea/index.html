@@ -122,6 +122,12 @@ Gridea 主页
       </div>
 
       
+        
+          <div id="gitalk-container"></div>
+        
+
+        
+      
 
       
 
@@ -305,6 +311,28 @@ Gridea 主页
     initImg();
   </script>
   
+  
+    
+      <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script type="application/javascript" src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<script type="application/javascript">
+
+  var gitalk = new Gitalk({
+    clientID: '34da1757f50a0904cd3c',
+    clientSecret: 'c1e6a2bec5e41c2f10a858c03ca16d1af26f4698',
+    repo: 'momijifox.github.io',
+    owner: 'momijifox',
+    admin: ['momijifox'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+    
   
 </body>
 
